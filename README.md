@@ -29,3 +29,7 @@ Prefix IP: `192.234.x.x`
 
 ### B. Cisco Packet Tracer
 ![Screenshot 2024-11-17 at 22 28 05](https://github.com/user-attachments/assets/ac428c21-8d5c-4c1f-bfe8-ee8c3d977b17)
+
+***
+## Tree VLSM
+![Jarkom_Modul4_VLSM_Danar drawio](https://github.com/user-attachments/assets/ee8e8ba7-3f21-4606-abc2-91fc3ecdd006)
