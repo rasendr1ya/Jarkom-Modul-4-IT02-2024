@@ -11,5 +11,5 @@
 ### A. GNS3
 
 ### B. Cisco Packet Tracer
-![Screenshot 2024-11-17 at 19 50 32](https://github.com/user-attachments/assets/8ee3253b-af2e-40b3-a549-20f4660a7130)
+![Screenshot 2024-11-17 at 20 23 06](https://github.com/user-attachments/assets/20a645b3-19dc-4459-a64f-a31284b70c89)
 
