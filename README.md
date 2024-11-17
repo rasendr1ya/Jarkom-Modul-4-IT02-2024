@@ -6,6 +6,13 @@
 | Gallant Damas Hayuaji         | 5027231037 |
 | Danar Bagus Rasendriya        | 5027231055 |
 
+### Note
+Prefix IP: `192.234.x.x`
+
+**GNS3** menggunakan **CIDR**.
+
+**Cisco Packet Tracer** menggunakan **VLSM**.
+
 ***
 ## Topologi
 ### A. GNS3
@@ -18,6 +25,7 @@
 ***
 ## Subnetting
 ### A. GNS3
+
 
 ### B. Cisco Packet Tracer
 ![Screenshot 2024-11-17 at 22 28 05](https://github.com/user-attachments/assets/ac428c21-8d5c-4c1f-bfe8-ee8c3d977b17)
