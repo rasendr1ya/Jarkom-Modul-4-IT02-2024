@@ -13,3 +13,9 @@
 ### B. Cisco Packet Tracer
 ![Screenshot 2024-11-17 at 21 19 41](https://github.com/user-attachments/assets/5cf2d163-59f9-447f-bae6-c1df892dd6eb)
 
+***
+## Subnetting
+### A. GNS3
+
+### B. Cisco Packet Tracer
+![Screenshot 2024-11-17 at 22 28 05](https://github.com/user-attachments/assets/ac428c21-8d5c-4c1f-bfe8-ee8c3d977b17)
