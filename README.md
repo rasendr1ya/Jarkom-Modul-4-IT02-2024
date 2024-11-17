@@ -9,6 +9,8 @@
 ***
 ## Topologi
 ### A. GNS3
+![Screenshot 2024-11-17 224017](https://github.com/user-attachments/assets/fcfbe360-cf50-4470-9818-a804875d05c7)
+
 
 ### B. Cisco Packet Tracer
 ![Screenshot 2024-11-17 at 21 19 41](https://github.com/user-attachments/assets/5cf2d163-59f9-447f-bae6-c1df892dd6eb)
