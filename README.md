@@ -19,7 +19,7 @@ Prefix IP: `192.234.x.x`
 ![image](https://github.com/user-attachments/assets/fcfbe360-cf50-4470-9818-a804875d05c7)
 
 ### Sheets dan Pembagian Subnet GNS3
-![image](https://github.com/user-attachments/assets/c0a1a6d7-7a5b-4466-81de-259350b35afd)
+![image](https://github.com/user-attachments/assets/7051942f-b0c3-4b4f-a7b2-ed6c85a2d9a8)
 
 ### Penggabungan GNS3
 1. Gabungan 1
